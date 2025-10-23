@@ -1,0 +1,39 @@
+$ next dev --turbopack
+   ▲ Next.js 15.5.6 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://169.254.0.21:3000
+
+ ✓ Starting...
+ ✓ Ready in 1501ms
+ ○ Compiling / ...
+ ✓ Compiled / in 7.1s
+ GET / 200 in 7882ms
+ ⚠ Cross origin request detected from studentsignal.lindy.site to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 877ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 1215ms
+ GET / 200 in 194ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 264ms
+ ○ Compiling /features ...
+ ✓ Compiled /features in 924ms
+ GET /features 200 in 1103ms
+ ○ Compiling /pricing ...
+ ✓ Compiled /pricing in 683ms
+ GET /pricing 200 in 776ms
+ ○ Compiling /contact ...
+ ✓ Compiled /contact in 819ms
+ GET /contact 200 in 909ms
+ ✓ Compiled /_not-found/page in 427ms
+ GET /case-studies 404 in 583ms
+ GET /case-studies 404 in 272ms
+ GET / 200 in 380ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 318ms
+ GET / 200 in 161ms
+ GET / 200 in 198ms
+ GET /pricing 200 in 97ms
+ GET / 200 in 198ms
+ GET /pricing 200 in 194ms
+ GET /pricing 200 in 187ms
+ GET / 200 in 173ms
+ GET /pricing 200 in 195ms
