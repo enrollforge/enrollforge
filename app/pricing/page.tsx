@@ -193,7 +193,7 @@ export default function Pricing() {
           <div className="space-y-8">
             {[
               {
-                q: "What's included in the free trial?",
+                q: "What&apos;s included in the free trial?",
                 a: "All plans include a 30-day free trial with full access to all features. No credit card required to start."
               },
               {

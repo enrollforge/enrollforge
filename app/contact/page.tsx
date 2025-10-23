@@ -23,7 +23,7 @@ export default function Contact() {
     e.preventDefault();
     console.log("Form submitted:", formData);
     // TODO: Add form submission logic
-    alert("Thank you! We'll be in touch soon.");
+    alert("Thank you! We&apos;ll be in touch soon.");
   };
 
   return (

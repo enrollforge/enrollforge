@@ -37,3 +37,5 @@ Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allow
  GET /pricing 200 in 187ms
  GET / 200 in 173ms
  GET /pricing 200 in 195ms
+ GET /pricing 200 in 199ms
+ GET /pricing 200 in 219ms
