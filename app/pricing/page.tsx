@@ -114,7 +114,7 @@ export default function Pricing() {
               Simple, transparent pricing
             </h1>
             <p className="text-xl text-white/90 mb-8">
-              Choose the plan that fits your institution's size and goals. All plans include a 30-day free trial.
+              Choose the plan that fits your institution&apos;s size and goals. All plans include a 30-day free trial.
             </p>
           </motion.div>
         </div>
@@ -202,7 +202,7 @@ export default function Pricing() {
               },
               {
                 q: "What happens if I exceed my visitor or lead limits?",
-                a: "We'll notify you when you're approaching your limits. You can upgrade to a higher plan or purchase additional capacity."
+                a: "We&apos;ll notify you when you&apos;re approaching your limits. You can upgrade to a higher plan or purchase additional capacity."
               },
               {
                 q: "Do you offer discounts for multi-year contracts?",

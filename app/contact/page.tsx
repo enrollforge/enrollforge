@@ -71,7 +71,7 @@ export default function Contact() {
             transition={{ duration: 0.6 }}
           >
             <h1 className="text-5xl md:text-6xl font-bold mb-6">
-              Let's transform your enrollment strategy
+              Let&apos;s transform your enrollment strategy
             </h1>
             <p className="text-xl text-white/90 mb-8">
               Get in touch with our team to learn how EnrollForge can help your institution grow.
@@ -94,7 +94,7 @@ export default function Contact() {
                 Get in touch
               </h2>
               <p className="text-lg text-gray-600 mb-8">
-                Whether you're ready to book a demo or just have questions, we're here to help. Fill out the form and we'll get back to you within 24 hours.
+                Whether you&apos;re ready to book a demo or just have questions, we&apos;re here to help. Fill out the form and we&apos;ll get back to you within 24 hours.
               </p>
 
               <div className="space-y-6">
